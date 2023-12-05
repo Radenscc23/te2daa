@@ -1,0 +1,30 @@
+Algorithm: Branch and Bound
+Execution Time: 0.6117448806762695 seconds
+Memory Usage: 23.79296875 MB
+
+Algorithm: Greedy Algorithm
+Execution Time: 0.6068999767303467 seconds
+Memory Usage: 23.80859375 MB
+
+Results for Dataset: custom_data_20.txt
+
+Algorithm: Branch and Bound
+Execution Time: 0.6271891593933105 seconds
+Memory Usage: 23.82421875 MB
+
+Algorithm: Greedy Algorithm
+Execution Time: 0.5924985408782959 seconds
+Memory Usage: 24.09765625 MB
+
+Results for Dataset: custom_data_200.txt
+
+Algorithm: Branch and Bound
+Execution Time: 0.529437780380249 seconds
+Memory Usage: 25.15234375 MB
+
+Algorithm: Greedy Algorithm
+Execution Time: 0.6578235626220703 seconds
+Memory Usage: 25.9140625 MB
+
+Results for Dataset: custom_data_2000.txt
+
